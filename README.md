@@ -7,13 +7,13 @@ O objetivo é montar uma classe para ter a lista de [feriados da ANBIMA](https:/
 
 ## Funções
 
-- holidays: 
+- **holidays**: 
 Retorna uma lista datetime com todos os feriados ANBIMA.
 
-- isNotDU: 
+- **isNotDU**: 
 Verifica se o dia é um dia útil por meio da lista de feriados e finais de semana.
 
-- returnDayUtil: 
+- **returnDayUtil**: 
 Retorna o próximo dia útil levando em consideração os feriados da ANBIMA e finais de semana.
 
 
