@@ -34,14 +34,14 @@ Retorna a lista de feriados ANBIMA.
 ```
 listaFeriados = hd.holidays()
 ```
-### Função holidays
+### Função isNotDU
 Retorno booleano (True ou False) se a data passada é um dia útil.
 
 ```
 dia = '2021-08-10'
 isNotDU(dia, listaFeriados)
 ```
-### Função holidays
+### Função returnDayUtil
 Retorno o próximo dia útil para o dia que foi passada.
 
 ```
