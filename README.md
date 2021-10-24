@@ -1,7 +1,7 @@
 
 # Projeto Feriados (Holidays)
 
-O objetivo é montar uma classe para ter a lista de [feriados da ANBIMA](https://www.anbima.com.br/feriados/feriados.asp) e funçãoes de dias úteis em python.
+Uma classe com a lista de [feriados da ANBIMA](https://www.anbima.com.br/feriados/feriados.asp) e funções de verificações de dias úteis em python.
 
 
 
